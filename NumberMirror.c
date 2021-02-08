@@ -4,4 +4,6 @@ int main() {
     scanf("%d",&n);
     printf("%d\n",n);
     return 0;
+
+    
 }
