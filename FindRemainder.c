@@ -7,6 +7,7 @@ int main() {
         r=a%b;
         printf("%d\n",r);
     }
+    
     return 0;
     
 
