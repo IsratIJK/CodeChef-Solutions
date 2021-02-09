@@ -6,8 +6,9 @@ int main() {
         scanf("%d%d",&a,&b);
         r=a%b;
         printf("%d\n",r);
+        
     }
-    
+
     return 0;
     
 
